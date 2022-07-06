@@ -1,6 +1,6 @@
 # auto-quiz
 
-This program can create questions(only of type Fill in the blanks) from given a text provided that a list of potential keywords is present(currently using only excel sheets for flexibility and i'mmmmm dumbbbb).
+This program can create questions(only of type Fill in the blanks) from given a text provided that a list of potential keywords is present(using only excel sheets)
 
 # Example
 ----------------------------------------------------------------------------------------------------------------------------------
