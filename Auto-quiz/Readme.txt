@@ -13,3 +13,23 @@ To access created questions
 To access created questions externally 
 
 1. You'll find it in the Datafiles folder 
+
+Required Modules 
+
+1.time
+
+2.os
+
+3.pyautogui
+
+4.Tkinkter
+
+5.docx
+
+6.nltk
+
+7.pandas
+
+
+
+
